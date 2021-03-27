@@ -16,4 +16,5 @@ function! flex#flex()
   let buf = nvim_create_buf(v:false, v:true)
   call nvim_open_win(buf, v:true, opts)
   call termopen('neofetch')
+  startinsert
 endfunction
