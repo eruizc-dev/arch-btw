@@ -1,6 +1,6 @@
 ## Arch Btw
 
-Flex without exiting vim
+Flex without exiting vim using `:Flex` command
 
 ![flex](./resources/picture.png)
 
